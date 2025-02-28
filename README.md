@@ -43,8 +43,8 @@ Earned excellent feedback for analytical depth, clarity, and the effectiveness o
 ## 🚀 How to Run
 1. *Clone the Repository*
    bash
-   git clone https://github.com/SriAshritha/supermarket-analysis.git
-   cd supermarket-analysis
+   git clone https://github.com/hashbrown147549/Supermarket-sales-dataset-analysis.git
+   cd Supermarket-sales-dataset-analysis
 2. **Open Google Colab** and upload `supermarket_analysis.ipynb`.  
 
 3. **Install Dependencies** by running the following command:  
@@ -62,4 +62,4 @@ Earned excellent feedback for analytical depth, clarity, and the effectiveness o
 
 ## 📬 Contact  
 For any inquiries, reach out via:  
-🔗 *LinkedIn*: [Sri Ashritha P](https://www.linkedin.com/in/sri-ashritha-p-a5aa69294/)
+🔗 *LinkedIn*: [Harshitha K](https://www.linkedin.com/in/harshitha-k-94a535289/)
